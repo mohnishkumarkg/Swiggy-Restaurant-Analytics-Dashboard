@@ -1,5 +1,5 @@
 # 🍽️ Swiggy Restaurant Analytics Dashboard
-
+Disclaimer: This is an independent portfolio project created for educational purposes using a publicly available dataset. It is not affiliated with, endorsed by, or sponsored by Swiggy
 ## 📌 Overview
 
 This project presents an interactive Power BI dashboard developed to analyze restaurant data across multiple Indian cities. The dashboard provides insights into restaurant distribution, pricing, ratings, and category trends using interactive visualizations and KPI cards.
