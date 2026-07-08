@@ -1,4 +1,4 @@
-# 🍽️ Swiggy Restaurant Analytics Dashboard
+# 🍽️ Restaurant Analytics Dashboard
 Disclaimer: This is an independent portfolio project created for educational purposes using a publicly available dataset. It is not affiliated with, endorsed by, or sponsored by Swiggy
 
 ## 📌 Overview
